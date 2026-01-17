@@ -1,0 +1,10 @@
+{
+  "ui": {
+    "version": "5.1.0",
+    "url": "https://example.com/updates/ui/ui.asar"
+  },
+  "cms": {
+    "version": "3.2.0",
+    "url": "https://example.com/updates/cms/CMS.exe"
+  }
+}
