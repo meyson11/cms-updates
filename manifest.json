@@ -1,13 +1,10 @@
 {
   "ui": {
-    "version": "5.3.0",
-    "url": "https://example.com/updates/ui/ui.asar"
+    "version": "5.1.0",
+    "url": "https://github.com/meyson11/cms-updates/raw/refs/heads/main/ui/app.asar"
   },
   "cms": {
-    "version": "1.1.0",
-    "url": "https://example.com/updates/cms/CMS.exe"
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/meyson11/cms-updates/main/cms/CMS.exe"
   }
 }
-
-
-
