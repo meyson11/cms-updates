@@ -4,10 +4,11 @@
     "url": "https://github.com/meyson11/cms-updates/raw/refs/heads/main/ui/app.asar"
   },
   "cms": {
-    "version": "1.2.0",
+    "version": "1.1.0",
     "url": "https://github.com/meyson11/cms-updates/raw/refs/heads/main/cms/CMS.exe"
   }
 }
+
 
 
 
